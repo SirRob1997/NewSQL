@@ -1,2 +1,4 @@
-# NewSQL
-This repository contains my whitepaper about Open Source NewSQL Databases
+# Publications
+This repository contains some of my whitepapers and presentations.
+
+For further whitepapers, please contact me directly, because they are published under a nda.
